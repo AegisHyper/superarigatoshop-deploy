@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/superarigatoshop-deploy": {},
+    "/superarigatoshop-deploy/pages/orders": {},
+    "/superarigatoshop-deploy/pages/orders-details": {},
+    "/superarigatoshop-deploy/pages/payment": {},
+    "/superarigatoshop-deploy/pages/product-detail": {},
+    "/superarigatoshop-deploy/signin": {}
+  }
+}
